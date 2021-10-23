@@ -1,0 +1,12 @@
+.main-color{
+    color: #C490E4 !important;
+}
+.bg-main{
+    background-color: #C490E4 !important;
+    border-color:#C490E4 !important;
+    color:white;
+}
+.sc-main{
+    color: white;
+    border-radius: 11vh;
+}
